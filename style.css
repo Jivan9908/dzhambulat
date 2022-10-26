@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+color: aliceblue;
+font-family: Dancing Script;
+font-size: 100px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    width: 300;
+}
+.name {
+    position: relative;
+    top: 100px;
+} 
+.icon {
+    color: aliceblue;
+    position: relative;
+    top: 350px;
+}
+i {
+padding: 30px;
+}
+a{
+    color: white;
+}
+hr{
+    position: relative;
+    top: 180px;
+}
