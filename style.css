@@ -11,14 +11,9 @@ h3 {
     font-family: 'Montserrat', sans-serif;
     width: 300;
 }
-.name {
-    position: relative;
-    top: 100px;
-} 
+
 .icon {
     color: aliceblue;
-    position: relative;
-    top: 350px;
 }
 i {
 padding: 30px;
@@ -26,7 +21,6 @@ padding: 30px;
 a{
     color: white;
 }
-hr{
-    position: relative;
-    top: 180px;
+.footer{
+   margin-top: 200px;
 }
